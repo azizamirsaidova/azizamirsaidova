@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: azizakhon@u.northwestern.edu or via LinkedIn.
 - ⚡ Fun fact: Outside of academics and tech, I practice fencing, learn foreign languages (currently: Arabic) and read books about behavioral economics and history of science and technology.
 
--->
+
