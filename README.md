@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Aziza, a Master's student currently studying Artificial Intelligence at Northwestern University. I'm currently Machine Learning Engineer Intern Co-op with Adobe. I'm also involved in Mim project with C2 Lab working on Question and Answering Classification. I'm also Research Assistant in Blinc project with Tiilt Lab working with Speech & Natural Language Processing techniques.
+I'm Aziza, a Master's student currently studying Artificial Intelligence at Northwestern University. I'm currently Machine Learning Engineer Intern Co-op with Adobe. I'm also involved in Mim project with C2 Lab working on Question and Answering Classification. In addition, I'm involved as a Research Assistant in Blinc project with Tiilt Lab working with Speech & Natural Language Processing techniques.
 
 I'm also on the hunt for a full-time machine learning role, so if you're hiring reach out! I can most easily be reached via:
 
