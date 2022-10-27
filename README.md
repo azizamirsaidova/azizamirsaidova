@@ -8,7 +8,7 @@ This summer, I did a Data Science Internship with University of Washington's eSc
    - Project Website: https://lnkd.in/g5wNRmRY
    - Project Highlights: https://lnkd.in/gKunGhyS
  
-I'm also on the hunt for a full-time data science and machine learning role, so if you're hiring reach out! I can most easily be reached via:
+I'm also on the hunt for a full-time Data Science and Machine Learning role, so if you're hiring reach out! I can most easily be reached via:
 
  - azizakhon@u.northwestern.edu
  - [Linkedin](https://www.linkedin.com/in/azizamirsaidova/)
