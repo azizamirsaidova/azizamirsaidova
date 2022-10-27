@@ -4,7 +4,7 @@ I'm Aziza, a Master's student currently studying Artificial Intelligence at Nort
 
 I'm also on the hunt for a full-time machine learning role, so if you're hiring reach out! I can most easily be reached via:
 
- - lukesalamone94@gmail.com  
+ - azizakhon@u.northwestern.edu
  - [Linkedin](https://www.linkedin.com/in/azizamirsaidova/)
 
 By the way, you can also download my resume [here]([https://github.com/lukesalamone/lukesalamone/raw/master/resume_luke_salamone.pdf](https://github.com/azizamirsaidova/resume/blob/main/Aziza__Mirsaidova__Resume__.pdf])
