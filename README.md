@@ -2,7 +2,7 @@
 
 I'm Aziza, a Master's student currently studying Artificial Intelligence at Northwestern University. I'm currently Machine Learning Engineer Intern Co-op with Adobe. I'm also involved in Mim project with C2 Lab working on Question and Answering Classification. In addition, I'm involved as a Research Assistant in Blinc project with Tiilt Lab working with Speech & Natural Language Processing techniques.
 
-This summer, I did a Data Science Internship with University of Washington's eScience Institute and created relational database system using Python and SQLAlchemy. For more information, visit project's [GitHub page](https://lnkd.in/gGPDA6sa), [project's website](https://lnkd.in/g5wNRmRY) and [project highlights in the news](https://lnkd.in/gKunGhyS).
+This summer, I did a Data Science Internship with University of Washington's eScience Institute and created relational database system using Python and SQLAlchemy. For more information, visit project's [GitHub page](https://lnkd.in/gGPDA6sa), [project's website](https://lnkd.in/g5wNRmRY) and [project's highlights in the news](https://lnkd.in/gKunGhyS).
  
 I'm also on the hunt for a full-time Data Science and Machine Learning role, so if you're hiring reach out! I can most easily be reached via:
 
