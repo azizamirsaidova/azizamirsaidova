@@ -13,7 +13,7 @@ I'm also on the hunt for a full-time Data Science and Machine Learning role, so 
  - azizakhon@u.northwestern.edu
  - [Linkedin](https://www.linkedin.com/in/azizamirsaidova/)
 
-By the way, you can also download my resume [here]([https://github.com/lukesalamone/lukesalamone/raw/master/resume_luke_salamone.pdf](https://github.com/azizamirsaidova/resume/blob/main/Aziza__Mirsaidova__Resume__.pdf])
+By the way, you can also download my resume [here]([https://github.com/azizamirsaidova/resume/blob/main/Aziza__Mirsaidova__Resume__.pdf])
 
 
 ### Technologies I'm familiar with 🔬
