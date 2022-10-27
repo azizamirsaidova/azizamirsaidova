@@ -2,12 +2,19 @@
 
 I'm Aziza, a Master's student currently studying Artificial Intelligence at Northwestern University. I'm currently Machine Learning Engineer Intern Co-op with Adobe. I'm also involved in Mim project with C2 Lab working on Question and Answering Classification. In addition, I'm involved as a Research Assistant in Blinc project with Tiilt Lab working with Speech & Natural Language Processing techniques.
 
-I'm also on the hunt for a full-time machine learning role, so if you're hiring reach out! I can most easily be reached via:
+This summer, I did a Data Science Internship with University of Washington's eScience Institute and created relational database system using Python and SQLAlchemy. 
+
+   - Project GitHub: https://lnkd.in/gGPDA6sa
+   - Project Website: https://lnkd.in/g5wNRmRY
+   - Project Highlights: https://lnkd.in/gKunGhyS
+ 
+I'm also on the hunt for a full-time data science and machine learning role, so if you're hiring reach out! I can most easily be reached via:
 
  - azizakhon@u.northwestern.edu
  - [Linkedin](https://www.linkedin.com/in/azizamirsaidova/)
 
 By the way, you can also download my resume [here]([https://github.com/lukesalamone/lukesalamone/raw/master/resume_luke_salamone.pdf](https://github.com/azizamirsaidova/resume/blob/main/Aziza__Mirsaidova__Resume__.pdf])
+
 
 ### Technologies I'm familiar with 🔬
 
@@ -16,7 +23,7 @@ By the way, you can also download my resume [here]([https://github.com/lukesalam
 
 
 **Tools:**  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) !Tableau (https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 **Artificial Intelligence:**  
 ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-7400B8?style=for-the-badge&logoColor=white) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-6930C3?style=for-the-badge&logoColor=white) ![Clustering](https://img.shields.io/badge/Clustering-5390D9?style=for-the-badge&logoColor=white)  
