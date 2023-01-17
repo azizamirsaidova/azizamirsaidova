@@ -3,14 +3,6 @@
 I'm Aziza, a Master's student studying Artificial Intelligence at Northwestern University. I'm a Machine Learning Engineer Intern Co-op with Adobe.
 
 This summer, I did a Data Science Internship with University of Washington's eScience Institute and created relational database system using Python and SQLAlchemy. For more information, visit project's [GitHub page](https://lnkd.in/gGPDA6sa), [project's website](https://lnkd.in/g5wNRmRY) and [project's highlights in the news](https://lnkd.in/gKunGhyS).
- 
-I'm also on the hunt for a full-time Data Science and Machine Learning role, so if you're hiring reach out! I can most easily be reached via:
-
- - azizakhon@u.northwestern.edu
- - [Linkedin](https://www.linkedin.com/in/azizamirsaidova/)
-
-By the way, you can also download my resume [here](https://github.com/azizamirsaidova/resume/blob/main/Aziza__Mirsaidova__Resume__.pdf)
-
 
 ### Technologies I'm familiar with 🔬
 
