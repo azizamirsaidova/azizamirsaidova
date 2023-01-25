@@ -4,7 +4,7 @@ I'm Aziza, a recent Master's graduate from Artificial Intelligence program at No
 
 I'm currently exploring/working/experimenting, 
 - areas to improve Question Answering Systems
-- learning more about Information Extraction methods that can be used to in text analysis 
+- learning more about Information Extraction methods that can be used in text analysis 
 - finding ways to improve Topic Modeling building model from scratch
 - also exploring/reading papers about graph representation learning
 
