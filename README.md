@@ -1,6 +1,6 @@
 ### Hi there👋 
  
-I'm Aziza, a Master's student studying Artificial Intelligence at Northwestern University. I'm a Machine Learning Engineer Intern Co-op with Adobe.
+I'm Aziza, a recent Master's graduate from Artificial Intelligence program at Northwestern University. I work in [Blinc](https://tiilt.northwestern.edu/projects/blinc/) platfom at [Tiilt] Lab(https://tiilt.northwestern.edu).
 
 This summer, I did a Data Science Internship with University of Washington's eScience Institute and created relational database system using Python and SQLAlchemy. For more information, visit project's [GitHub page](https://lnkd.in/gGPDA6sa), [project's website](https://lnkd.in/g5wNRmRY) and [project's highlights in the news](https://lnkd.in/gKunGhyS).
 
