@@ -5,7 +5,6 @@ I'm Aziza, a recent Master's graduate from Artificial Intelligence program at No
 I'm currently exploring/working/experimenting, 
 - areas to improve Question Answering Systems
 - learning more about Information Extraction methods that can be used in text analysis 
-- finding ways to improve Topic Modeling building model from scratch
 - also exploring/reading papers about graph representation learning
 
 I'm also looking for a ml/nlp engineer roles where I can get involved in interesting projects and learn more. So, if you are hiring, visit my [page](https://azizamirsaidova.github.io) for more info on my past projects.
