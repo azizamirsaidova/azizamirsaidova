@@ -2,7 +2,7 @@
  
 I'm Aziza, a recent Master's graduate from Artificial Intelligence program at Northwestern University. I work in [Blinc](https://tiilt.northwestern.edu/projects/blinc/) platfom at [Tiilt Lab](https://tiilt.northwestern.edu).
 
-I'm currently exploring/working/experimenting, 
+Currently exploring/working/experimenting, 
 - areas to improve Question Answering Systems
 - learning more about Information Extraction methods that can be used in text analysis 
 - also exploring/reading papers about graph representation learning
