@@ -7,7 +7,7 @@ These days, I'm exploring/working/experimenting with,
 - multilingual(particularly Turkic langs) datasets and its application to various NLP tasks
 - also exploring/reading papers about graph representation learning
 
-I'm also looking for a ml/nlp engineer roles where I can get involved in interesting projects and learn more. So, if you are hiring, visit my [page](https://azizamirsaidova.github.io) for more info on my past projects.
+I'm also looking for a ml/nlp engineer roles where I can get involved in interesting and impact driven projects. So, if you are hiring, visit my [page](https://azizamirsaidova.github.io) for more info on my past projects.
 
 ### Technologies I'm familiar with 🔬
 
