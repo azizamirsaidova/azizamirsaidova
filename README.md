@@ -1,9 +1,9 @@
 ### Hi there👋 
  
-I'm Aziza, researcher and engineer interested in topics related to data science, ml and nlp. I'm a recent Master's graduate from Artificial Intelligence program at Northwestern University and currently work in [Blinc](https://tiilt.northwestern.edu/projects/blinc/) platfom at [Tiilt Lab](https://tiilt.northwestern.edu).
+I'm Aziza, researcher and engineer interested in topics related to data science, ml and nlp. I'm a recent Master's graduate from Artificial Intelligence program at Northwestern University and currently work in [Blinc](https://tiilt.northwestern.edu/projects/blinc/) platfom at [Tiilt Lab](https://tiilt.northwestern.edu) enhancing its speech and nlp capability. 
 
 These days, I'm exploring/working/experimenting with, 
-- question answering systems,
+- question answering, information retrieval methods,
 - multilingual(particularly Turkic langs) datasets and its application to various NLP tasks,
 - and reading papers about graph representation learning.
 
