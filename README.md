@@ -4,8 +4,7 @@ I'm Aziza, researcher and engineer interested in topics related to data science,
 
 These days, I'm exploring/working/experimenting with, 
 - question answering, information retrieval methods,
-- multilingual(particularly Turkic langs) datasets and its application to various NLP tasks,
-- and reading papers about graph representation learning.
+- multilingual(particularly Turkic langs) datasets and its application to various NLP tasks.
 
 I'm also looking for a ml/nlp engineer roles where I can get involved in interesting and impact driven projects. So, if you are hiring, visit my [page](https://azizamirsaidova.github.io) for more info on my past projects.
 
